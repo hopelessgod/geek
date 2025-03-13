@@ -32,7 +32,7 @@
       "correct_answers": ["A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"]
     },
     {
-      "question": "What type of problem does the following sentence create for an AI system?\n\nIs your refrigerator running?",
+      "question": "What type of problem does the following sentence create for an AI system?",
       "correct_answers": ["Classification problem"]
     },
     {
@@ -40,7 +40,7 @@
       "correct_answers": ["It learns from many instances"]
     },
     {
-      "question": "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.\n\nWhich tokens are most important for the AI system’s NLP to analyze?",
+      "question": "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.",
       "correct_answers": ["Emotions and sentiment"]
     },
     {
