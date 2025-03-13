@@ -37,7 +37,7 @@
     },
     {
       "question": "How does an AI system that is working with human language handle the classification problem?",
-      "correct_answers": ["It learns from many instances"]
+      "correct_answers": ["It learns from many instances."]
     },
     {
       "question": "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.",
