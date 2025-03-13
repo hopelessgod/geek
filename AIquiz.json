@@ -42,6 +42,10 @@
     {
       "question": "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.\n\nWhich tokens are most important for the AI system’s NLP to analyze?",
       "correct_answers": ["Emotions and sentiment"]
+    },
+    {
+      "question": "For a chatbot, what is an entity considered within the context of a question?",
+      "correct_answers": ["A node"]
     }
       ]
     }
