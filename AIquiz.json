@@ -348,6 +348,10 @@
     {
       "question": "Which of the following describes an AI system, that everyday people, who do not have any special training in AI, can understand how and why the system came to a particular prediction or recommendation?",
       "correct_answers": ["Understandable"]
+    },
+    {
+      "question": "_______________ is a multidisciplinary field that investigates how to optimize AI’s beneficial impact while reducing unintended or adverse outcomes.",
+      "correct_answers": ["AI ethics"]
     }
       ]
     }
