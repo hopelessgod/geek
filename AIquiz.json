@@ -1,47 +1,17 @@
 {
-  "questions": [
-    {
-      "question": "Which of the following functions can a cognitive AI system perform?",
-      "correct_answers": ["Interact", "Learn", "Understand", "Reason"]
-    },
-    {
-      "question": "What is the final step an AI debater system must take?",
-      "correct_answers": ["Respond to the opponent by listening to the opponent's arguments to then deliver a convincing rebuttal that refutes the opponent and further proves the case."]
-    },
-    {
-      "question": "Which of the following statements is correct about natural language processing (NLP)?",
-      "correct_answers": [
+    "Which of the following functions can a cognitive AI system perform?": ["Interact", "Learn", "Understand", "Reason"],
+    "What is the final step an AI debater system must take?": [
+        "Respond to the opponent by listening to the opponent's arguments to then deliver a convincing rebuttal that refutes the opponent and further proves the case."
+    ],
+    "Which of the following statements is correct about natural language processing (NLP)?": [
         "IBM Project Debater was a major step forward in the field of natural language processing.",
         "Human language is complex, so machines require natural language processing systems to understand human language."
-      ]
-    },
-    {
-      "question": "Fill in the blank. A system that helps machines understand cultural knowledge, grammatical structures, and various language nuances is known as _____________________.",
-      "correct_answers": ["natural language processing"]
-    },
-    {
-      "question": "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?",
-      "correct_answers": ["Corpus"]
-    },
-    {
-      "question": "Your friend says, “I really love anchovies and flowers.” How many relationships between entities can you find in this statement?",
-      "correct_answers": ["Two"]
-    },
-    {
-      "question": "What is sentiment analysis?",
-      "correct_answers": ["A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"]
-    },
-    {
-      "question": "What type of problem does the following sentence create for an AI system?\n\nIs your refrigerator running?",
-      "correct_answers": ["Classification problem"]
-    },
-    {
-      "question": "How does an AI system that is working with human language handle the classification problem?",
-      "correct_answers": ["It learns from many instances"]
-    },
-    {
-      "question": "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.\n\nWhich tokens are most important for the AI system’s NLP to analyze?",
-      "correct_answers": ["Emotions and sentiment"]
-    }
-      ]
-    }
+    ],
+    "Fill in the blank. A system that helps machines understand cultural knowledge, grammatical structures, and various language nuances is known as _____________________.": ["natural language processing"],
+    "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?": ["Corpus"],
+    "Your friend says, “I really love anchovies and flowers.” How many relationships between entities can you find in this statement?": ["Two"],
+    "What is sentiment analysis?": ["A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"],
+    "What type of problem does the following sentence create for an AI system?\n\nIs your refrigerator running?": ["Classification problem"],
+    "How does an AI system that is working with human language handle the classification problem?": ["It learns from many instances"],
+    "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.\n\nWhich tokens are most important for the AI system’s NLP to analyze?": ["Emotions and sentiment"]
+}
