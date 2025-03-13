@@ -9,7 +9,7 @@
     ],
     "Fill in the blank. A system that helps machines understand cultural knowledge, grammatical structures, and various language nuances is known as _____________________.": ["natural language processing"],
     "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?": ["Corpus"],
-    "Your friend says, “I really love anchovies and flowers.” How many relationships between entities can you find in this statement?": ["Two"],
+    "Your friend says, \"I really love anchovies and flowers.\" How many relationships between entities can you find in this statement?": ["Two"],
     "What is sentiment analysis?": ["A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"],
     "What type of problem does the following sentence create for an AI system?\n\nIs your refrigerator running?": ["Classification problem"],
     "How does an AI system that is working with human language handle the classification problem?": ["It learns from many instances"],
