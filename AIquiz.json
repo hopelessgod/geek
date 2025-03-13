@@ -268,6 +268,86 @@
             "correct_answers": [
                 "Corpus"
             ]
-        }
+        },
+        {
+      "question": "Which of the following is true about industries in which AI professionals work?",
+      "correct_answers": ["Most industries have already hired or are in the process of hiring AI professionals."]
+    },
+    {
+      "question": "What is the primary job role of a business intelligence developer?",
+      "correct_answers": ["To analyze complex data, looking at business and market trends to increase profitability of their organization"]
+    },
+    {
+      "question": "Which AI professional specializes in human language and works on voice assistants and speech recognition?",
+      "correct_answers": ["Natural language processing engineer"]
+    },
+    {
+      "question": "You’re in a job interview and you are asked to describe your advanced AI technical skills. What set of skills should you elaborate on?",
+      "correct_answers": ["Python, TensorFlow, and machine learning"]
+    },
+    {
+      "question": "You’re applying for an entry-level job as an AI professional. The interviewer asks you about your workplace skills. Which of the following skills should you elaborate on?",
+      "correct_answers": ["Communication and teamwork"]
+    },
+    {
+      "question": "When developing explanations for the output of an AI model, it is important to remember that explanations must _______________ depending on the user persona.",
+      "correct_answers": ["vary"]
+    },
+    {
+      "question": "Which of the following is an example of poisoning in the AI context?",
+      "correct_answers": [
+        "Updating features and labels of the training data",
+        "Injecting malicious samples into the training data",
+        "Corrupting test data sent to the deployed model"
+      ]
+    },
+    {
+      "question": "Fill in the blank. A distinguishing feature of generative AI, as opposed to other types of AI, is its ability to _______________.",
+      "correct_answers": ["create new content"]
+    },
+    {
+      "question": "When you selected the CSV file in All assets, what did you see?",
+      "correct_answers": ["A preview of the data to be used when training your model"]
+    },
+    {
+      "question": "Which of the following describes how information flows through the nodes of a perceptron in a neural network?",
+      "correct_answers": ["Information flows from the input layer to the hidden layers, where algorithms are applied, and then to the output layer."]
+    },
+    {
+      "question": "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?",
+      "correct_answers": ["Corpus"]
+    },
+    {
+      "question": "Which of the following pillars of AI is exemplified by anyone being able to describe how an AI system makes a prediction or recommendation?",
+      "correct_answers": ["Explainability"]
+    },
+    {
+      "question": "Which of the following business roles is responsible for the deployment of AI models?",
+      "correct_answers": ["AI Ops Engineer"]
+    },
+    {
+      "question": "In a poisoning attack, when does the adversarial attack occur?",
+      "correct_answers": ["Training phase"]
+    },
+    {
+      "question": "Which of the following describes a robust AI system?",
+      "correct_answers": ["The AI system can effectively handle malicious attacks without causing unintentional harm."]
+    },
+    {
+      "question": "Which of the following is a limitation of generative AI?",
+      "correct_answers": [
+        "Lack of originality in content",
+        "Bias in the generated content",
+        "Accuracy of content"
+      ]
+    },
+    {
+      "question": "What is sentiment analysis?",
+      "correct_answers": ["A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"]
+    },
+    {
+      "question": "Which of the following describes an AI system, that everyday people, who do not have any special training in AI, can understand how and why the system came to a particular prediction or recommendation?",
+      "correct_answers": ["Understandable"]
+    }
       ]
     }
