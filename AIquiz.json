@@ -126,6 +126,148 @@
     {
       "question": "Which of the following describes an AI system, that everyday people, who do not have any special training in AI, can understand how and why the system came to a particular prediction or recommendation?",
       "correct_answers": ["Understandable"]
-    }
+    },
+    {
+            "question": "Which of the following functions can a cognitive AI system perform?",
+            "correct_answers": [
+                "Interact",
+                "Learn",
+                "Understand",
+                "Reason"
+            ]
+        },
+        {
+            "question": "What is the final step an AI debater system must take?",
+            "correct_answers": [
+                "Build the final position by creating a final speech that details the position on the debate topic and gives a compelling argument."
+            ]
+        },
+        {
+            "question": "Which of the following statements is correct about natural language processing (NLP)?",
+            "correct_answers": [
+                "IBM Project Debater was a major step forward in the field of natural language processing.",
+                "Human language is complex, so machines require natural language processing systems to understand human language."
+            ]
+        },
+        {
+            "question": "Fill in the blank. A system that helps machines understand cultural knowledge, grammatical structures, and various language nuances is known as _____________________.",
+            "correct_answers": [
+                "natural language processing"
+            ]
+        },
+        {
+            "question": "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?",
+            "correct_answers": [
+                "Corpus"
+            ]
+        },
+        {
+            "question": "Your friend says, \u201cI really love anchovies and flowers.\u201d How many relationships between entities can you find in this statement?",
+            "correct_answers": [
+                "Two"
+            ]
+        },
+        {
+            "question": "What is sentiment analysis?",
+            "correct_answers": [
+                "A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"
+            ]
+        },
+        {
+            "question": "What type of problem does the following sentence create for an AI system? 'Is your refrigerator running?'",
+            "correct_answers": [
+                "Token movement problem"
+            ]
+        },
+        {
+            "question": "How does an AI system that is working with human language handle the classification problem?",
+            "correct_answers": [
+                "It learns from many instances."
+            ]
+        },
+        {
+            "question": "You\u2019re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media. What should the AI analyze?",
+            "correct_answers": [
+                "Emotions and sentiment"
+            ]
+        },
+        {
+            "question": "For a chatbot, what is an entity considered within the context of a question?",
+            "correct_answers": [
+                "A noun"
+            ]
+        },
+        {
+            "question": "Which of the following terms is used to describe the reason why a user sends a message in a chatbot?",
+            "correct_answers": [
+                "Intent"
+            ]
+        },
+        {
+            "question": "Which of the following describes how chatbots differ from more general AI systems in their capabilities?",
+            "correct_answers": [
+                "Chatbots are focused on answering specific questions in a limited domain."
+            ]
+        },
+        {
+            "question": "Which of the following processes is used by AI to analyze only small parts of an image at a time, making it possible for visual recognition systems to identify parts of an image?",
+            "correct_answers": [
+                "Convolutional neural network (CNN)"
+            ]
+        },
+        {
+            "question": "Which of the following methods of learning describes how an AI system learns using trial and error?",
+            "correct_answers": [
+                "Reinforcement learning"
+            ]
+        },
+        {
+            "question": "Which level of AI refers to machines that can perform any intellectual task that a human can?",
+            "correct_answers": [
+                "General AI"
+            ]
+        },
+        {
+            "question": "What type of algorithm would help you \ufb01nd out what you might earn for a salary if you have different levels of college degrees in computer science?",
+            "correct_answers": [
+                "Linear regression"
+            ]
+        },
+        {
+            "question": "You want to know how many hours to study to pass an exam. The \u201chours of studying\u201d data forms a sigmoid function, or an S-shaped curve, between \u201cfail\u201d and \u201cpass\u201d. Which learning algorithm could you use?",
+            "correct_answers": [
+                "Logistic regression"
+            ]
+        },
+        {
+            "question": "What kind of brain cells inspired the creation of neural networks?",
+            "correct_answers": [
+                "Neurons"
+            ]
+        },
+        {
+            "question": "After calculating values, what do neural networks often assign to those values that impact the final result?",
+            "correct_answers": [
+                "Weight"
+            ]
+        },
+        {
+            "question": "Which process makes facial recognition possible?",
+            "correct_answers": [
+                "Convolutional neural network (CNN)"
+            ]
+        },
+        {
+            "question": "Which of the following is an important difference between linear and logistic regressions?",
+            "correct_answers": [
+                "Only logistic regressions have outputs between 0 and 1."
+            ]
+        },
+        {
+            "question": "Which of the following terms is used to describe the collection of text and data AI researchers use to train a debater AI system?",
+            "correct_answers": [
+                "Corpus"
+            ]
+        }
       ]
     }
