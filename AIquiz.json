@@ -1,7 +1,27 @@
 {
-    "Which of the following functions can a cognitive AI system perform?": ["Interact", "Learn", "Understand", "Reason"],
-    "What is the final step an AI debater system must take?": "Respond to the opponent by listening to the opponent's arguments to then deliver a convincing rebuttal that refutes the opponent and further proves the case.",
-    "Which of the following statements is correct about natural language processing (NLP)?": ["IBM Project Debater was a major step forward in the field of natural language processing.", "Human language is complex, so machines require natural language processing systems to understand human language."],
-    "Fill in the blank. A system that helps machines understand cultural knowledge, grammatical structures, and various language nuances is known as": "natural language processing",
-    "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?": "Corpus"
+  "questions": [
+    {
+      "question": "Which of the following functions can a cognitive AI system perform?",
+      "correct_answers": ["Interact", "Learn", "Understand", "Reason"]
+    },
+    {
+      "question": "What is the final step an AI debater system must take?",
+      "correct_answers": ["Respond to the opponent by listening to the opponent's arguments to then deliver a convincing rebuttal that refutes the opponent and further proves the case."]
+    },
+    {
+      "question": "Which of the following statements is correct about natural language processing (NLP)?",
+      "correct_answers": [
+        "IBM Project Debater was a major step forward in the field of natural language processing.",
+        "Human language is complex, so machines require natural language processing systems to understand human language."
+      ]
+    },
+    {
+      "question": "Fill in the blank. A system that helps machines understand cultural knowledge, grammatical structures, and various language nuances is known as",
+      "correct_answers": ["natural language processing"]
+    },
+    {
+      "question": "What term do AI researchers use to describe the collection of text and data they use to train a debater AI system?",
+      "correct_answers": ["Corpus"]
+    }
+  ]
 }
