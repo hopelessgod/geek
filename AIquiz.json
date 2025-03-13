@@ -13,5 +13,6 @@
     "What is sentiment analysis?": ["A method to measure the strength of an emotion by assessing data as positive, negative, or neutral"],
     "What type of problem does the following sentence create for an AI system?\n\nIs your refrigerator running?": ["Classification problem"],
     "How does an AI system that is working with human language handle the classification problem?": ["It learns from many instances"],
-    "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.\n\nWhich tokens are most important for the AI system’s NLP to analyze?": ["Emotions and sentiment"]
+    "You’re consulting for a store that wants to know how customers feel about a new product line. You propose an AI system that can study how people feel about these products based on their comments in social media.\n\nWhich tokens are most important for the AI system’s NLP to analyze?": ["Emotions and sentiment"],
+    "Fill in the blank. A dialog is represented by a ____________ that illustrates how a chatbot will respond after a human asks a question.": ["three-dimensional table"],
 }
